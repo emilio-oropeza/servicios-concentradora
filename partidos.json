@@ -1,0 +1,88 @@
+{
+	"partidos":[{
+		"0":{
+			"id": 0,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 5,
+			"visitante": 1
+		},
+		"1":{
+			"id": 1,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 4,
+			"visitante": 2
+		},
+		"2":{
+			"id": 2,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 1,
+			"visitante": 0
+		},
+		"3":{
+			"id": 3,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 3,
+			"visitante": 1
+		},
+		"4":{
+			"id": 4,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 0,
+			"visitante": 0
+		},
+		"5":{
+			"id": 5,
+			"isOficial": true,
+			"isLocal": true,
+			"local": 1,
+			"visitante": 2
+		},
+		"6":{
+			"id": 6,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 5,
+			"visitante": 1
+		},
+		"7":{
+			"id": 7,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 4,
+			"visitante": 2
+		},
+		"8":{
+			"id": 8,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 1,
+			"visitante": 0
+		},
+		"9":{
+			"id": 9,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 3,
+			"visitante": 1
+		},
+		"10":{
+			"id": 10,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 0,
+			"visitante": 0
+		},
+		"11":{
+			"id": 11,
+			"isOficial": false,
+			"isLocal": true,
+			"local": 1,
+			"visitante": 2
+		}
+	}]
+}

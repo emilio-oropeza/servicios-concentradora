@@ -1,0 +1,84 @@
+{
+	"jugadores":[{
+		"0":{
+			"id":0,
+			"equipo_id" : 17,
+			"nombre" : "Javier",
+			"apellido": "Hernández",
+			"minutos" : 1460,
+			"estado_id" : 0
+		},
+		"1":{
+			"id":1,
+			"equipo_id" : 18,
+			"nombre" : "Hector",
+			"apellido": "Moreno",
+			"minutos" : 1360,
+			"estado_id" : 0
+		},
+		"2":{
+			"id":2,
+			"equipo_id" : 19,
+			"nombre" : "Marco",
+			"apellido": "Fabián",
+			"minutos" : 1130,
+			"estado_id" : 0
+		},
+		"3":{
+			"id":3,
+			"equipo_id" : 23,
+			"nombre" : "Oribe",
+			"apellido": "Peralta",
+			"minutos" : 850,
+			"estado_id" : 0
+		},
+		"4":{
+			"id":4,
+			"equipo_id" : 20,
+			"nombre" : "Raúl",
+			"apellido": "Jiménez",
+			"minutos" : 750,
+			"estado_id" : 0
+		},
+		"5":{
+			"id":5,
+			"equipo_id" : 18,
+			"nombre" : "Andrés",
+			"apellido": "Guardado",
+			"minutos" : 630,
+			"estado_id" : 0
+		},
+		"6":{
+			"id":6,
+			"equipo_id" : 21,
+			"nombre" : "Héctor",
+			"apellido": "Herrera",
+			"minutos" : 327,
+			"estado_id" : 0
+		},
+		"7":{
+			"id":7,
+			"equipo_id" : 23,
+			"nombre" : "Paul",
+			"apellido": "Aguilar",
+			"minutos" : 510,
+			"estado_id" : 0
+		},
+		"8":{
+			"id":8,
+			"equipo_id" : 0,
+			"nombre" : "Carlos",
+			"apellido": "Peña",
+			"minutos" : 400,
+			"estado_id" : 0
+		},
+		"9":{
+			"id":9,
+			"equipo_id" : 16,
+			"nombre" : "Rafael",
+			"apellido": "Marquez",
+			"minutos" : 200,
+			"estado_id" : 0
+		}
+	}]
+}

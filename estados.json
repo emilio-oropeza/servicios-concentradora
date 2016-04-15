@@ -1,0 +1,48 @@
+{
+	"estados":[{
+		"0":{
+			"id":0,
+			"nombre":"Jalisco"
+		},
+		"1":{
+			"id":1,
+			"nombre":"Michoacán"
+		},
+		"2":{
+			"id":2,
+			"nombre":"Sinaloa"
+		},
+		"3":{
+			"id":3,
+			"nombre":"Nuevo León"
+		},
+		"4":{
+			"id":4,
+			"nombre":"Tamaulipas"
+		},
+		"5":{
+			"id":5,
+			"nombre":"Hidalgo"
+		},
+		"6":{
+			"id":6,
+			"nombre":"Sonora"
+		},
+		"7":{
+			"id":7,
+			"nombre":"Coahuila"
+		},
+		"8":{
+			"id":8,
+			"nombre":"Ciudad de México"
+		},
+		"9":{
+			"id":9,
+			"nombre":"Guanajuato"
+		},
+		"10":{
+			"id":10,
+			"nombre":"Baja California"
+		}
+	}]
+}
